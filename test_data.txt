@@ -1,0 +1,33 @@
+ulcers_on_tongue, acidity, stomach_pain
+
+itching, skin_rash, nodal_skin_eruptions
+
+shivering, chills, stomach_pain, acidity, ulcers_on_tongue
+
+muscle_wasting, vomiting, burning_micturition, vomiting, indigestion
+
+burning_micturition, spotting_ urination
+
+fatigue, weight_loss, restlessness, lethargy
+
+patches_in_throat, irregular_sugar_level, increased_appetite, high_fever,muscle_wasting
+
+abdominal_pain, loss_of_appetite, nausea, yellowish_skin, vomiting, itching
+
+irritability, depression, stiff_neck
+
+movement_stiffness, swelling_joints, stiff_neck, muscle_weakness
+
+spinning_movements, loss_of_balance, unsteadiness
+
+pus_filled_pimples, blackheads, scurring
+cramps, bruising, obesity, swollen_legs,swollen_blood_vessels
+
+malaise, swelled_lymph_nodes, itching, skin_rash, mild_fever
+
+abdominal_pain, loss_of_appetite, nausea, yellowish_skin, joint_pain
+
+phlegm, throat_irritation, redness_of_eyes, sinus_pressure,	runny_nose,	congestion,	chest_pain
+
+
+
